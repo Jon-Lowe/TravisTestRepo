@@ -1,0 +1,11 @@
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\bin\Debug\netcoreapp2.1\TravisTestSln.deps.json
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\bin\Debug\netcoreapp2.1\TravisTestSln.runtimeconfig.json
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\bin\Debug\netcoreapp2.1\TravisTestSln.runtimeconfig.dev.json
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\bin\Debug\netcoreapp2.1\TravisTestSln.dll
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\bin\Debug\netcoreapp2.1\TravisTestSln.pdb
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.csprojAssemblyReference.cache
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.AssemblyInfoInputs.cache
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.AssemblyInfo.cs
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.dll
+C:\Users\Jonathan Lowe\Desktop\Uni\TravisTestRepo\TravisTestSln\obj\Debug\netcoreapp2.1\TravisTestSln.pdb
