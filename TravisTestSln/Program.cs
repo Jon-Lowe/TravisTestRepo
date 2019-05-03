@@ -7,6 +7,7 @@ namespace TravisTestSln
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            This should not work
         }
     }
 }
